@@ -15,7 +15,7 @@ elif op == "-":
 elif op == "*":
     sum = int(x1) * int(x2)
 elif op == "/":
-    sum = int(x1) / int (x2)
+    sum = int(x1) / int(x2)
 
 #3. Output
 
